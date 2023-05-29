@@ -1,0 +1,95 @@
+/* FOR LOGIN PAGE*/
+
+.image1 {background:linear-gradient( rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(./loginpic.jpg);background-repeat: no-repeat;
+    background-attachment: fixed; background-size: 100% 100%;}
+
+
+
+.divstyle {width: 600px; height: 400px; border: 5px solid rgba(105, 13, 13, 0.834); margin: auto; margin-top: 10%; 
+    background: linear-gradient(rgba(91, 86, 86, 0.4),rgba(91, 86, 86, 0.4)); 
+}    
+
+
+
+/* FOR MAIN PAGE */
+.image2 {background:linear-gradient( rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.637)),  url(./manutd.jpg); background-repeat: no-repeat;
+    background-attachment: fixed; background-size: 100% 100%;}
+
+    
+body {scroll-behavior: smooth; overflow-x: hidden; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+* { padding:0; border: 0; text-decoration: none; list-style: none; box-sizing: border-box;}
+
+nav { background-color: rgb(230, 79, 79,0.3); height: 80px; width: 100%; }
+
+label.LOGO { color: aliceblue; font-size: 35px; line-height: 80px; padding: 0 100px; font-weight: bold;}
+
+nav ul {float: right; margin-right: 20px;
+
+}
+
+nav ul li{ 
+    display:inline-block; line-height: 80px; margin: 0 18px; 
+}
+
+nav ul li a { color:aliceblue; font-size: 27px; /*text-transform: uppercase;*/
+
+}
+
+div ul li{display:inline-block; line-height: 100px; margin-left: 220px ; margin-right:auto; text-shadow:7px 7px 3px #ff0606;}
+
+/* FOR OLD TRAFFORD */
+
+.container {max-width: 1200px; margin: auto; background-color: rgba(0, 0, 0, 0.6); overflow: auto;}
+
+.gallery { margin: 5px; border: 1x solid #5e0505; float: left; width: 390px;
+}
+
+.gallery img {
+    width: 100%; height: auto; size-adjust: auto;
+
+}
+
+.desc {
+    padding:15px; text-align: center; color:rgb(255, 7, 7); text-shadow:5px 5px 2px #221818;
+}
+
+/* FOR REGISTER PAGE */
+.image3 {background-image:linear-gradient( rgba(3, 2, 2, 0.5),rgba(3, 2, 2, 0.5)), url(./MASTA.jpg); background-repeat: no-repeat;
+    background-attachment: fixed; background-size: 100% 100%;}
+
+.regfiv {width: 600px; height: 600px; border: 5px solid rgba(106, 14, 14, 0.834); margin: auto; margin-top: 2%; 
+background: linear-gradient(rgba(234, 234, 234, 0.349),rgba(234, 234, 234, 0.349));
+
+}    
+
+/* FOR PLAYERS */    
+
+
+
+
+
+/* FOR MANAGER */    
+.image5 {background:linear-gradient( rgba(28, 1, 1, 0.5),rgba(28, 1, 1, 0.5)),  url(./set.jpg); background-repeat: no-repeat;
+    background-attachment: fixed; background-size: 100% 100%;}
+
+.mgrcontainer {max-width: 3500px; margin-bottom: 1%; background-color: rgba(0, 0, 0, 0.422); overflow: auto;}    
+
+.mgrgallery { margin: 10px; border: 1x solid rgba(28, 1, 1, 0.5); float: left; width: 1180px;
+}    
+
+.mgrgallery img {
+    width: 100%; height: auto; size-adjust: auto;}
+
+.mgrdesc { font-size: xx-large;     
+     color:rgb(255, 7, 7); text-shadow:5px 5px 2px #221818;
+}
+/* FOR ABOUT US */
+
+.image6 {background:linear-gradient( rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url(./about.jpg); background-repeat: no-repeat;
+    background-attachment: fixed; background-size: 100% 100%;}    
+
+/* FOR CLUB Shop*/
+
+
